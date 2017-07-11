@@ -1,0 +1,6 @@
+C:\Users\Larry\Desktop\Cownterpick\Cownterpick\Cownterpick\bin\Debug\netcoreapp1.1\Cownterpick.deps.json
+C:\Users\Larry\Desktop\Cownterpick\Cownterpick\Cownterpick\bin\Debug\netcoreapp1.1\Cownterpick.runtimeconfig.json
+C:\Users\Larry\Desktop\Cownterpick\Cownterpick\Cownterpick\bin\Debug\netcoreapp1.1\Cownterpick.runtimeconfig.dev.json
+C:\Users\Larry\Desktop\Cownterpick\Cownterpick\Cownterpick\bin\Debug\netcoreapp1.1\Cownterpick.dll
+C:\Users\Larry\Desktop\Cownterpick\Cownterpick\Cownterpick\obj\Debug\netcoreapp1.1\Cownterpick.csprojResolveAssemblyReference.cache
+C:\Users\Larry\Desktop\Cownterpick\Cownterpick\Cownterpick\obj\Debug\netcoreapp1.1\Cownterpick.AssemblyInfo.cs
