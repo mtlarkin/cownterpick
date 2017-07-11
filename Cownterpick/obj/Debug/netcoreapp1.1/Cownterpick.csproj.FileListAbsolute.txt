@@ -4,3 +4,6 @@ C:\Users\Larry\Desktop\Cownterpick\Cownterpick\Cownterpick\bin\Debug\netcoreapp1
 C:\Users\Larry\Desktop\Cownterpick\Cownterpick\Cownterpick\bin\Debug\netcoreapp1.1\Cownterpick.dll
 C:\Users\Larry\Desktop\Cownterpick\Cownterpick\Cownterpick\obj\Debug\netcoreapp1.1\Cownterpick.csprojResolveAssemblyReference.cache
 C:\Users\Larry\Desktop\Cownterpick\Cownterpick\Cownterpick\obj\Debug\netcoreapp1.1\Cownterpick.AssemblyInfo.cs
+C:\Users\Larry\Desktop\Cownterpick\Cownterpick\Cownterpick\bin\Debug\netcoreapp1.1\Cownterpick.pdb
+C:\Users\Larry\Desktop\Cownterpick\Cownterpick\Cownterpick\obj\Debug\netcoreapp1.1\Cownterpick.dll
+C:\Users\Larry\Desktop\Cownterpick\Cownterpick\Cownterpick\obj\Debug\netcoreapp1.1\Cownterpick.pdb
